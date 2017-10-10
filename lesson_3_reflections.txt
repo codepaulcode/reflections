@@ -16,3 +16,14 @@ either from a local source or github, and branches are part of a single reposito
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+If I had too, I might take to using some kind of shared folder or file system like Dropbox, or Google docs. 
+This would probably be harder than GitHub in the sense of tracking changes and locating bugs. 
+It woud be eaiser in the sense of having a less complicated setup. 
+
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+It would make sense when a group or large number of people are working on the same project. 
+The beenfit being keeping track of all the changes that have already been made or approved for 
+merging with master. 
